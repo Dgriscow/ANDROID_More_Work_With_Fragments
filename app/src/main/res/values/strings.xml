@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ANDROID_More_Work_With_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="button1Txt">View 1</string>
+    <string name="button2Txt">View 2</string>
+
+    <string name="fragmentView1Title">This Is Fragment 1</string>
+
+    <string name="fragmentView2Title">This Is Fragment 2</string>
+
+</resources>
